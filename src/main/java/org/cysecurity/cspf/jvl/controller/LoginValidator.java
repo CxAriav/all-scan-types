@@ -1,6 +1,7 @@
 
 public class LoginValidator extends HttpServlet {
 
+    // add line to change result location
    
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
